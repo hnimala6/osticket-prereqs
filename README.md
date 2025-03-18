@@ -119,10 +119,49 @@ Open IIS as an Admin
 
 ![image](https://github.com/user-attachments/assets/c131e988-b131-441c-810d-d063c2ee599c)
 
+![image](https://github.com/user-attachments/assets/2276d69a-a1e5-468f-badc-b71cdfee48ed)
+
+![image](https://github.com/user-attachments/assets/c814c9f7-22ca-421d-bf8f-b4bd66e53e91)
+
+![image](https://github.com/user-attachments/assets/ec086a85-0d29-4a4e-beb0-d7218e81367b)
+
+![image](https://github.com/user-attachments/assets/0cd962c5-03bc-4ec3-acfd-d1c632b58f04)
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+![image](https://github.com/user-attachments/assets/67ddeb82-556a-4089-8304-b055c87d1104)
+
+![image](https://github.com/user-attachments/assets/f40d46a3-f6e8-4475-9894-ed26ce341b34)
+
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
 
+![image](https://github.com/user-attachments/assets/0995aa76-72ec-4a1a-acfd-a9791259e820)
 
+![image](https://github.com/user-attachments/assets/d203c5c9-864e-43ac-a7c9-24e9642ef4ff)
 
+![image](https://github.com/user-attachments/assets/f1207a6a-a228-49bf-a7bb-6079b4351172)
+
+![image](https://github.com/user-attachments/assets/88144716-061c-4d0f-a9eb-9cd537e1dadf)
+
+![image](https://github.com/user-attachments/assets/8de7c713-5c4c-468f-8080-82ff08f9817b)
+
+![image](https://github.com/user-attachments/assets/cc43bc56-29d7-487d-bc71-098e7897e0fc)
+
+![image](https://github.com/user-attachments/assets/e10fa9bc-f1b4-4d2c-8865-2e25ce57d6a3)
+
+![image](https://github.com/user-attachments/assets/ba20700b-bf97-49c3-95cc-78a66aefa1eb)
+
+![image](https://github.com/user-attachments/assets/2f029802-6533-46cd-8b5b-d8258a70746d)
+
+![image](https://github.com/user-attachments/assets/8d2cbce5-873f-46cb-bc7a-3110d49cacab)
+
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+![image](https://github.com/user-attachments/assets/e133e698-c9f1-419d-ac2e-dcc0f2d3cea4)
 
 
 
